@@ -1,4 +1,4 @@
-# search_algorithm_BFS-Page_Rank
+# search_algorithm_BFS_DFS-Page_Rank
 
 comp614_module6.py: This contains several class definitions: Stack, Queue, and DiGraph. It also contains my implementation of the file_to_graph method, which you will need to use for testing and analysis.
 
