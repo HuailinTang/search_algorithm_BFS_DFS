@@ -6,4 +6,4 @@ hw6.py: This is the code for the functions that I implemented for BFS, DFS, and 
 
 wikipedia_articles_streamlined.txt: This is a text file that includes a real data set that was mined from Wikipedia. It is a streamlined version of the file that you were given in homework 4, with only 785 nodes. This streamlining was performed in order to allow you to run the PageRank algorithm efficiently on this graph.
 
-test0.txt - test9.txt: These are text files that include small artificial data sets that you can use for testing, in the same format as wikipedia_articles_streamlined.txt
+DFS_text: text files that include small artificial data sets that you can use for testing, in the same format as wikipedia_articles_streamlined.txt
