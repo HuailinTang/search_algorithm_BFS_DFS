@@ -1,5 +1,11 @@
 # search_algorithm_BFS_DFS-Page_Rank
 
+Goal:
+Implement BFS and DFS search algorithm.
+Designing and implementing recursive functions.
+Understanding and implementing the page rank algorithm.
+
+
 comp614_module6.py: This contains several class definitions: Stack, Queue, and DiGraph. It also contains my implementation of the file_to_graph method, which you will need to use for testing and analysis.
 
 hw6.py: This is the code for the functions that I implemented for BFS, DFS, and Page Rank algorithm.
